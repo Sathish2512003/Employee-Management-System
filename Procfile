@@ -1,2 +1,2 @@
-web: gunicorn employee.wsgi:application
+web: gunicorn employee_management.wsgi:application
 
